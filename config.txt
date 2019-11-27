@@ -1,0 +1,7 @@
+2000, 2000
+Prod_A,Prod_B,Prod_C
+7
+10, 20, 1
+2
+Warehouse0 xy: 1000, 0000 prod:Prod_A,100,Prod_B,20,Prod_C,0
+Warehouse1 xy: 1000, 1000 prod:Prod_A,10,Prod_B,0,Prod_C,10

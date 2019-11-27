@@ -1,0 +1,2 @@
+gcc simulationManager.c -lpthread -D_REENTRANT -o simulationManager.exe -lm
+.\simulationManager.exe
