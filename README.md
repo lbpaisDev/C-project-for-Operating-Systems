@@ -1,4 +1,4 @@
-# -C_Simulation
+# C Simulator
 
 This is a C project for the course of Operating Systems.
 
